@@ -1,6 +1,7 @@
 # Hi, I'm Mari! 👋
 
-I'm building a career in Localization, Technical Translation and Language Technology.
+Aspiring Localization and Technical Translation Specialist with a focus on Python and language technology.
+
 
 ## 🌍 Languages
 
