@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mari! 👋
 
-<!--
-**dramariait/dramariait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building a career in Localization, Technical Translation and Language Technology.
 
-Here are some ideas to get you started:
+## 🌍 Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English
+- 🇯🇵 Japanese (Studying)
+- 🇨🇳 Mandarin (Studying)
+
+## 💻 Currently Learning
+
+- Python
+- Git & GitHub
+- SQL
+- Data Processing
+
+## 📂 Featured Project
+
+🎮 Game Localization Helper
+
+A Python project created to practice programming while exploring localization workflows.
+
+## 🎯 Career Goal
+
+I'm building Python tools that support localization and translation workflows for games, software and technology.
+
+## 🚀 Next Projects
+
+- Glossary Manager
+- Translation QA Checker
+- Translation Statistics
+- Software Localization Helper
